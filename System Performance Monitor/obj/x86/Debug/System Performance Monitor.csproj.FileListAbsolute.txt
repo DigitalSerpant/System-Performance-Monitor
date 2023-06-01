@@ -1,0 +1,11 @@
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\bin\x86\Debug\System Performance Monitor.exe.config
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\bin\x86\Debug\System Performance Monitor.exe
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\bin\x86\Debug\System Performance Monitor.pdb
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\obj\x86\Debug\System Performance Monitor.csproj.AssemblyReference.cache
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\obj\x86\Debug\System Performance Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\obj\x86\Debug\System_Performance_Monitor.Form1.resources
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\obj\x86\Debug\System_Performance_Monitor.Properties.Resources.resources
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\obj\x86\Debug\System Performance Monitor.csproj.GenerateResource.cache
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\obj\x86\Debug\System Performance Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\obj\x86\Debug\System Performance Monitor.exe
+C:\Users\Digital-S\source\repos\System Performance Monitor\System Performance Monitor\obj\x86\Debug\System Performance Monitor.pdb
